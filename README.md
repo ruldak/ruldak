@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Hary
 
-<!--
-**ruldak/ruldak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer who builds REST APIs with **Django** and **Django REST Framework**.
 
-Here are some ideas to get you started:
+### What I work on
+- Payment gateway integrations (Stripe, Midtrans, PayPal)
+- Third-party API integrations (Google, Telegram, shipping APIs)
+- Authentication with JWT
+- Building clean and maintainable backend systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+- Python, Django, DRF  
+- PostgreSQL, MySQL
+- Docker/Podman, Git, Redis  
+
+### Projects
+- **drf-payment-api** — payment gateway integration example  
+- **api-sync-service** — syncing data between multiple APIs  
+- **auth-service** — JWT-based authentication using DRF  
+
+---
+*I like building backend systems that are simple, fast, and reliable.*
+
