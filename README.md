@@ -21,3 +21,5 @@ Backend developer who builds REST APIs with **Django** and **Django REST Framewo
 ---
 *I like building backend systems that are simple, fast, and reliable.*
 
+📫 [LinkedIn](https://www.linkedin.com/in/hari-cahyono-131a2536a/)  
+🌐 [Portfolio](https://ruldak.vercel.app)
