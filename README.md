@@ -3,8 +3,8 @@
 Backend developer who builds REST APIs with **Django** and **Django REST Framework**.
 
 ### What I work on
-- Payment gateway integrations (Stripe, Midtrans, PayPal)
-- Third-party API integrations (Google, Telegram, shipping APIs)
+- Payment gateway integrations
+- Third-party API integrations
 - Authentication with JWT
 - Building clean and maintainable backend systems
 
